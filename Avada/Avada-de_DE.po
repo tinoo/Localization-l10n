@@ -186,6 +186,7 @@ msgstr ""
 msgid ""
 "Thank you %s for using our contact form! Your email was successfully sent!"
 msgstr ""
+"Vielen Dank %s! Deine Nachricht wurde erfoglreich versendet!"
 
 # @ Avada
 #: contact.php:62 contact.php:74 includes/class-avada-contact.php:155
